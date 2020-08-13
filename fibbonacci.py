@@ -1,5 +1,5 @@
 
-#Python function to output the Fibbonacci sequence of a given number
+#Function to output the Fibbonacci sequence of a given number
 def fibbonacci(given_num):
     a = 0
     b = 1
